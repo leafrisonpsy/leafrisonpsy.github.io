@@ -59930,12 +59930,12 @@ q=A.PK(s,s,o,s,s,s,s,s,s,s,s,new A.d4(B.fc,t.Ak),s,new A.d4(new A.cl(q,B.n),t.kU
 return new A.ba(B.bF,new A.J2(this.c,s,s,s,q,B.p,s,!1,s,new A.J3(r,this.e,s),s),s)}}
 A.DT.prototype={
 G(a){var s=null
-return new A.rc(1.05,A.oA(B.R,!0,A.eC(s,A.dy(A.a([B.v3,B.xp,B.Hc,A.dt("L\xe9a Frison",A.ag(a).RG.e.cp(B.j),s,s),A.dt("Psychologue Clinicienne Pyschoth\xe9rapeuthe",A.ag(a).RG.r,B.c_,s),B.v3],t.p),B.Y,B.G,B.F),B.p,B.cd,s,s,s,s,s,s,s,s,s),B.p,s,6,s,s,s,s,s,B.bM),s)}}
+return new A.rc(1.05,A.oA(B.R,!0,A.eC(s,A.dy(A.a([B.v3,B.xp,B.Hc,A.dt("L\xe9a Frison",A.ag(a).RG.e.cp(B.j),s,s),A.dt("Psychologue Clinicienne Psychoth\xe9rapeute",A.ag(a).RG.r,B.c_,s),B.v3],t.p),B.Y,B.G,B.F),B.p,B.cd,s,s,s,s,s,s,s,s,s),B.p,s,6,s,s,s,s,s,B.bM),s)}}
 A.v8.prototype={
 ag(){return new A.v9(new A.b6(null,t.QI),B.k)}}
 A.v9.prototype={
 G(a){$.an.at$.push(new A.Ym(this,a))
-return new A.ba(B.ch,A.dy(A.a([A.dt("Tarifs",A.ag(a).RG.c.cp(B.j),null,null),B.vW,B.w0,B.vX],t.p),B.a9,B.G,B.F),this.d)}}
+return new A.ba(B.ch,A.dy(A.a([A.dt("Tarifs",A.ag(a).RG.c.cp(B.j),null,null),B.vW,B.w0,B.vY],t.p),B.a9,B.G,B.F),this.d)}}
 A.Ym.prototype={
 $1(a){A.vc(this.b,!1,t.du).mi(this.a.d,2)},
 $S:2}
@@ -59974,7 +59974,7 @@ A.wV.prototype={
 ag(){return new A.wW(new A.b6(null,t._a),B.k)}}
 A.wW.prototype={
 G(a){$.an.at$.push(new A.a3F(this,a))
-return new A.ba(B.ch,A.dy(A.a([new A.ba(B.cg,A.dt("Accueil",A.ag(a).RG.c.cp(B.j),null,null),null),B.vY],t.p),B.a9,B.G,B.F),this.d)}}
+return new A.ba(B.ch,A.dy(A.a([new A.ba(B.cg,A.dt("Accueil",A.ag(a).RG.c.cp(B.j),null,null),null),B.vX],t.p),B.a9,B.G,B.F),this.d)}}
 A.a3F.prototype={
 $1(a){A.vc(this.b,!1,t.du).mi(this.a.d,0)},
 $S:2}
@@ -59988,7 +59988,7 @@ A.WM.prototype={
 $0(){A.is(A.kY("lfrison.psycho@gmail.com","mailto"))},
 $S:0}
 A.WN.prototype={
-$0(){A.l8(u.w)},
+$0(){A.l8("https://www.doctolib.fr/psychologue/lyon/ana-molenda")},
 $S:0}
 A.WO.prototype={
 $0(){A.is(A.kY("+33 650978259","tel"))},
@@ -62642,7 +62642,7 @@ B.vL=new A.lf(0,"resumed")
 B.vM=new A.lf(1,"inactive")
 B.vN=new A.lf(2,"paused")
 B.vO=new A.lf(3,"detached")
-B.vP=new A.nw("images/profil_2.png",null,null)
+B.vP=new A.nw("images/profil_2.jpg",null,null)
 B.C=new A.lj(0,"up")
 B.a4=new A.lj(1,"right")
 B.E=new A.lj(2,"down")
@@ -62662,8 +62662,8 @@ B.vV=new A.lk(26,"saturation")
 B.eE=new A.lk(3,"srcOver")
 B.kJ=new A.Ac(0,"normal")
 B.vW=new A.jC("La dur\xe9e des s\xe9ances est de 45 minutes pour une prise en charge individuelle. \n\n\xc9tudiant : 60 \u20ac\nAdulte : 70 \u20ac \n\nPour une prise en charge de couple la s\xe9ance dure 1h30.\n\nCouple : 140\u20ac\n",null)
-B.vX=new A.jC("Honoraires non pris en charge par la S\xe9curit\xe9 Sociale. Vous pouvez toutefois vous rapprocher de votre mutuelle pour une prise en charge des s\xe9ances.",null)
-B.vY=new A.jC("Je propose des suivis individuels ou en couple, qui selon les besoins et la demande peuvent prendre la forme d'une psychoth\xe9rapie ou bien d'un soutien psychologique. Chaque patient est diff\xe9rent et chaque prise en charge doit s'adapter \xe0 cette singularit\xe9. \n \u200b\nJe suis une Psychologue clinicienne d'approche int\xe9grative. Cela signifie que j'int\xe8gre dans ma pratique des outils et th\xe9ories issues de diff\xe9rents courants de th\xe9rapie ( analytique, th\xe9rapie cognitivo-comportementales TCC). \n",null)
+B.vX=new A.jC("Je propose des suivis individuels ou en couple, qui selon les besoins et la demande peuvent prendre la forme d'une psychoth\xe9rapie ou bien d'un soutien psychologique. Chaque patient est diff\xe9rent et chaque prise en charge doit s'adapter \xe0 cette singularit\xe9. \n \u200b\nJe suis une Psychologue clinicienne d'approche int\xe9grative. Cela signifie que j'int\xe8gre dans ma pratique des outils et th\xe9ories issues de diff\xe9rents courants de th\xe9rapie (analytique, th\xe9rapie cognitivo-comportementales TCC). \n",null)
+B.vY=new A.jC("Honoraires non pris en charge par la S\xe9curit\xe9 Sociale. Vous pouvez toutefois vous rapprocher de votre mutuelle pour une prise en charge des s\xe9ances.",null)
 B.vZ=new A.jC("\u2022  Master 2 en psychologie clinique et psychopathologie des situations limites de l\u2019\xe9cole des psychologues cliniciens de Lyon\n\u2022  Prise en charge adultes \n\u2022  La prise en charge est adapt\xe9e aux besoins et \xe0 la demande du patient \n",null)
 B.w_=new A.jC("Au cabinet ou en visioconf\xe9rence: \nLundi : 9h - 19h \nJeudi : 9h - 19h \nVendredi : 16h - 19h\n\nTout rendez-vous non honor\xe9 et non annul\xe9 dans les 48h pr\xe9c\xe9dant celui-ci sera consid\xe9r\xe9 comme d\xfb. \n",null)
 B.w0=new A.Ad(null)
