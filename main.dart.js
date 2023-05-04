@@ -59988,7 +59988,7 @@ A.WM.prototype={
 $0(){A.is(A.kY("lfrison.psycho@gmail.com","mailto"))},
 $S:0}
 A.WN.prototype={
-$0(){A.l8("https://www.doctolib.fr/psychologue/lyon/ana-molenda")},
+$0(){A.l8(u.w)},
 $S:0}
 A.WO.prototype={
 $0(){A.is(A.kY("+33 650978259","tel"))},
